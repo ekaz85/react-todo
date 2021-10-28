@@ -24,6 +24,7 @@ body {
   border: none;
   border-radius: 5px;
   cursor: pointer;
+  font-family: 'Orbitron', sans-serif;
 }
 
 .App .item-todo .item-text {
@@ -32,12 +33,13 @@ body {
 }
 
 .App input {
-  padding: 15px 32px 14px 16px;
+  padding: 14px 32px 14px 16px;
   border-radius: 4px 0 0 4px;
   border: 2px solid rgb(0, 142, 250);
   outline: none;
   background: transparent;
   color: #fff;
+  font-family: 'Orbitron', sans-serif;
 }
 
 .App button {
@@ -71,6 +73,7 @@ body {
 
 .h1ToDo {
   color: rgb(213, 224, 232);
+  font-family: 'Rampart One', cursive;
 }
 
 .placeholderColor::placeholder {
