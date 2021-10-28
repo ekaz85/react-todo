@@ -1,5 +1,7 @@
 body {
-  background-image: url("https://storage.needpix.com/rsynced_images/mesh-1430108_1280.png");
+  /* background-image: url("https://storage.needpix.com/rsynced_images/mesh-1430108_1280.png"); */
+  background-image: url('./img/rainbow.jpeg');
+  opacity: 0.6;
   background-repeat: no-repeat;
   background-size: cover;
 }
